@@ -1,0 +1,38 @@
+    body {
+        background-image: url('beach.jpg');
+        opacity: 20px;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    
+    h1 {
+        margin-left: 45%;
+        /* margin-top: 10%; */
+        color: brown;
+    }
+    
+    input {
+        margin-left: 40%;
+        height: 29px;
+        width: 500px;
+        background-color: rgb(241, 233, 233);
+    }
+    
+    button {
+        /* margin-left: 45%; */
+        height: 35px;
+        width: 40px;
+        text-emphasis-color: red;
+    }
+    
+    img {
+        margin-left: 50%;
+        margin-top: 7%;
+        height: 10%;
+        width: 10%;
+        border-radius: 50%;
+    }
+    
+    nav {
+        margin-left: 50%;
+    }
